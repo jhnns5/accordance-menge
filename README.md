@@ -1,2 +1,2 @@
-# accordance
-Modules for Accordance Bible Software
+# Menge Bibel
+Menge Bibel as module for Accordance Bible Software
